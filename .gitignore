@@ -1,2 +1,4 @@
 .pynb_checkpoints/*
 __pycache__*
+data/
+
